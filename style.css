@@ -1,0 +1,35 @@
+/* CSS Document */
+
+hr {
+	
+	color: black;
+	
+}
+body {
+	
+background-color: #826F66;
+}
+h1 {
+font-size: 100px;
+text-align: center;
+color: #3A3845;
+}
+
+h2 {
+text-align: center;
+font-size: 50px;
+color: #C69B7B;
+font-weight: bolder;
+}
+
+p {
+	
+	font-size: 20px;
+	text-align: center;
+	color: #F7CCAC;
+	
+}
+.Run {
+	
+	font-weight: bold;
+}
